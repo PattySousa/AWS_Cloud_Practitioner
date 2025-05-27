@@ -7,7 +7,7 @@ Material Desenvolvido por mim durante a preparação para a AWS Cloud Practition
    Simulado: 
    Desenvolvi este simulado com 100 perguntas para auxiliar na preparação para a prova
    
-   pattysousa.github.io/practitioner/
+   https://pattysousa.github.io/practitioner/
 
    Meu Linkedin: 
    https://www.linkedin.com/in/patricia--sousa/
